@@ -1,0 +1,48 @@
+{
+    "name": "Custom",
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+    "keywords": [
+        "compound",
+        "defi"
+    ],
+    "version":{
+        "major":1,
+        "minor":3,
+        "patch":0
+    },
+    "timestamp": "2021-05-27T20:37:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 11155111,
+            "address": "0x5b64359c4D2f4AF42d4dDeA16EA99bD2c5FcCB17",
+            "name": "0x Protocol Token",
+            "symbol": "MTK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x923181EE3EBF035c95b99EF993F95cdd211Bc6b4",
+            "name": "Compound USD Coin",
+            "symbol": "MTK3",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0xe10E9b386c167Da8C9Fa667401A5bffb00F9AAa0",
+            "name": "Compound Dai",
+            "symbol": "MTK2",
+            "decimals": 18,
+            "logoURI":  "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
+        },
+        {
+            "chainId": 11155111,
+            "address": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+            "name": "Wrapper ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
+        }
+    ]
+}
