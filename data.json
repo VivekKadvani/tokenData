@@ -34,7 +34,7 @@
             "name": "Compound Dai",
             "symbol": "MTK2",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_dai.svg"
+            "logoURI":  "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
         },
         {
             "chainId": 11155111,
@@ -42,7 +42,7 @@
             "name": "Wrapper ether",
             "symbol": "WETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
         }
     ]
 }
