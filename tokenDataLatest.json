@@ -1,5 +1,5 @@
 {
-    "name": "Custom",
+    "name": "Merlin token List",
     "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
     "keywords": [
         "compound",
@@ -20,69 +20,13 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
         },
-        {
+       {
             "chainId": 686868,
-            "address": "0xc9bD7216178df57e4eeE88C94b5912Ff74917eAD",
-            "name": "Merlin Mock Token",
-            "symbol": "MTK",
+            "address": "0x1867bE47aa37F51F742b1996Fc751D5213077aC7",
+            "name": "Virothrum",
+            "symbol": "VIR",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
-        },
-        {
-            "chainId": 686868,
-            "address": "0x7e081071D5f03Bcc7D841cd7E2A159aF865D469F",
-            "name": "AMPL Rerbase Token",
-            "symbol": "ATK",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
-        } ,
-        {
-            "chainId": 686868,
-            "address": "0x75b1c95D67A1376923F1814995f21678C2b6824a",
-            "name": "AMPL Rerbase Token",
-            "symbol": "ATK2",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
-        },
- {
-            "chainId": 686868,
-            "address": "0xd826f6Fe387Ba5063B4c97D98ce84d89ec09Aff0",
-            "name": "Unblock Usdt token",
-            "symbol": "UUSDT",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
-        },
-        {
-            "chainId": 686868,
-            "address": "0x41bE3fb09885138649b5F64e97dA1898D6b85f83",
-            "name": "freshToken",
-            "symbol": "FTK",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
-        },
-        {
-            "chainId": 686868,
-            "address": "0x2CF6CB1926c925b4364b3f41FA0b91ef9b814C8c",
-            "name": "Gold",
-            "symbol": "GLD",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
-        },
-        {
-            "chainId": 686868,
-            "address": "0x176E8Dba38a35c69A7D96bc9b3cF8ad0b607E244",
-            "name": "OTP Token",
-            "symbol": "OTP",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
-        },
-        {
-            "chainId": 686868,
-            "address": "0x590d42A72612b1DE3000CDB684Ff971Cb7024C1c",
-            "name": "uTax Token",
-            "symbol": "UTK",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
+            "logoURI": "https://raw.githubusercontent.com/VivekKadvani/tokenData/b1b2bab62178be0901a416274226627bde285825/ICON_FINAL.png"
         }
     ]
 }
