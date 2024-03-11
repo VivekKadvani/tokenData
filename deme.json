@@ -1,5 +1,5 @@
 {
-    "name": "Merlin token List",
+    "name": "Custom",
     "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
     "keywords": [
         "compound",
@@ -26,7 +26,7 @@
             "name": "Virothrum",
             "symbol": "VIR",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/VivekKadvani/tokenData/b1b2bab62178be0901a416274226627bde285825/ICON_FINAL.png"
+            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
         }
     ]
 }
