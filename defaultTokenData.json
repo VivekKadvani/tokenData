@@ -1,0 +1,26 @@
+{
+  "keywords": ["Merlin", "default"],
+  "logoURI": "https://moccasin-labour-lungfish-250.mypinata.cloud/ipfs/QmULpMFUvKSmJT8sWXS3WDnTm4EacgRbsEynDenpxcfrAj",
+  "name": "Merlin Token List",
+  "tags": {},
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "tokens": [
+    {
+      "address": "0x67A1f4A939b477A6b7c5BF94D97E45dE87E608eF",
+      "chainId": 686868,
+      "decimals": 18,
+      "logoURI": "https://moccasin-labour-lungfish-250.mypinata.cloud/ipfs/QmRmUp11nKyG2oyegHHbKWg9eQDHuHyRy5S7DNDQcY2JuZ",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC"
+    },
+    {
+      "address": "0x1867bE47aa37F51F742b1996Fc751D5213077aC7",
+      "chainId": 686868,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/VivekKadvani/tokenData/b1b2bab62178be0901a416274226627bde285825/ICON_FINAL.png",
+      "name": "Virothrum",
+      "symbol": "VIR"
+    }
+  ],
+  "version": { "major": 1, "minor": 3, "patch": 1 }
+}
